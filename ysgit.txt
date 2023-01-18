@@ -1,5 +1,5 @@
 {
-"spider":"https://ghproxy.com/https://github.com/mys2099/mys/blob/main/jar.jar?raw=true;md5;3b7d9c0b7dbd51054050ec7f13410549",
+"spider":"https://ghproxy.com/https://github.com/mys2099/mys/blob/main/jar.jar?raw=true;md5;5b6697fff6632cb3f85662be9a9629b4",
 "lives":[{"name":"redirect","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/tv.txt"}],
 
 "sites":[
