@@ -1,5 +1,5 @@
-﻿{
-"spider":"https://ghproxy.com/https://github.com/mys2099/mys/blob/main/jar.jar?raw=true;md5;a65811900d342246c216e2de4e9553b6",
+{
+"spider":"https://ghproxy.com/https://github.com/mys2099/mys/blob/main/jar.jar?raw=true;md5;3b7d9c0b7dbd51054050ec7f13410549",
 "lives":[{"name":"redirect","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/tv.txt"}],
 
 "sites":[
@@ -26,9 +26,9 @@
 ],
 
 "parses":[
-{"name":"聚合解析","type":3,"url":"Demo"},
 {"name":"Q1云","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"爱酷","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=28426599&key=dglrstuEFGHOTW3467&url="}
+{"name":"爱酷","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=28426599&key=dglrstuEFGHOTW3467&url="},
+{"name":"聚合解析","type":3,"url":"Demo"}
 ],
 
 "ads":["https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
