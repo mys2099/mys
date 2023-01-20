@@ -13,7 +13,7 @@
 {"key":"Vofl","name":"🍀Voflix","type":3,"api":"csp_Voflix"},
 {"key":"Bttoo","name":"🍀Bttoo","type":3,"api":"csp_Bttoo"},
 {"key":"Paper","name":"🎯纸条","type":3,"api":"csp_Paper","ext":"11b48c06055f4445b873df7238a3716d"},
-{"key":"Upyunso","name":"🎯云搜","type":3,"api":"csp_Upyunso","ext":"11b48c06055f4445b873df7238a3716d"},
+{"key":"UpYun","name":"🎯云搜","type":3,"api":"csp_UpYun","ext":"11b48c06055f4445b873df7238a3716d"},
 {"key":"PanSou","name":"🎯盘搜","type":3,"api":"csp_PanSou","ext":"11b48c06055f4445b873df7238a3716d"},
 {"key":"YiSo","name":"🎯一搜","type":3,"api":"csp_YiSo","ext":"11b48c06055f4445b873df7238a3716d"},
 {"key":"Zhao","name":"🎯源搜","type":3,"api":"csp_Zhaozy","ext":"11b48c06055f4445b873df7238a3716d"},
@@ -26,7 +26,7 @@
 ],
 
 "parses":[
-{"name":"Q1云","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"rxjx","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"爱酷","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=28426599&key=dglrstuEFGHOTW3467&url="},
 {"name":"聚合解析","type":3,"url":"Demo"}
 ],
