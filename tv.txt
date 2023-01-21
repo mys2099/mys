@@ -3,7 +3,8 @@ CCTV5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 精品体育,http://117.169.124.149:8080/live/jtiyu/index.m3u8
-五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+劲爆体育,http://139.9.188.172:5678/sxg.php?id=lqhxjcHDH265_4000
+五星体育,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 JJ斗地主,http://epg.112114.xyz/huya/14079954
 咪咕1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 咪咕2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
@@ -58,26 +59,65 @@ CCTV16,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//i
 CCTV17,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
 
 华为线路,#genre#
-CCTV-4K 超高清,http://139.9.188.172:5678/sxg.php?id=ys4Kcq_2000
-CCTV16-4K 超高清,http://139.9.188.172:5678/sxg.php?id=CCTV-16-4K_8000
-CCTV-1 综合,http://139.9.188.172:5678/sxg.php?id=CCTV-1H265_4000
-CCTV-2 财经,http://139.9.188.172:5678/sxg.php?id=CCTV-2H265_4000
-CCTV-3 综艺,http://139.9.188.172:5678/sxg.php?id=CCTV-3H265_4000
-CCTV-4 中文国际,http://139.9.188.172:5678/sxg.php?id=CCTV-4H265_4000
-CCTV-5 体育,http://139.9.188.172:5678/sxg.php?id=CCTV-5H265_4000
-CCTV-5+ 体育赛事,http://139.9.188.172:5678/sxg.php?id=CCTV-5plusH265_4000
-CCTV-6 电影,http://139.9.188.172:5678/sxg.php?id=CCTV-6H265_4000
-CCTV-7 国防军事,http://139.9.188.172:5678/sxg.php?id=CCTV-7H265_4000
-CCTV-8 电视剧,http://139.9.188.172:5678/sxg.php?id=CCTV-8H265_4000
-CCTV-9 纪录,http://139.9.188.172:5678/sxg.php?id=CCTV-9H265_4000
-CCTV-10 科教,http://139.9.188.172:5678/sxg.php?id=CCTV-10H265_4000
-CCTV-11 戏曲,http://139.9.188.172:5678/sxg.php?id=CCTV-11-H265_4000
-CCTV-12 社会与法,http://139.9.188.172:5678/sxg.php?id=CCTV-12H265_4000
-CCTV-13 新闻,http://139.9.188.172:5678/sxg.php?id=CCTV-xw_4000
-CCTV-14 少儿,http://139.9.188.172:5678/sxg.php?id=CCTV-14H265_4000
-CCTV-15 音乐,http://139.9.188.172:5678/sxg.php?id=CCTV-15-yyH265_4000
-CCTV-16 奥林匹克,http://139.9.188.172:5678/sxg.php?id=CCTV-16_4000
-CCTV-17 农业农村,http://139.9.188.172:5678/sxg.php?id=CCTV-17_4000
+CCTV-4K超高清,http://139.9.188.172:5678/sxg.php?id=ys4Kcq_2000
+CCTV-16奥林匹克4K,http://139.9.188.172:5678/sxg.php?id=CCTV-16-4K_8000
+超高清电影4K,http://139.9.188.172:5678/sxg.php?id=emdy4k_8000
+欢笑剧场4K,http://139.9.188.172:5678/sxg.php?id=hxjc-4k_8000
+CCTV-1综合,http://139.9.188.172:5678/sxg.php?id=CCTV-1H265_4000
+CCTV-2财经,http://139.9.188.172:5678/sxg.php?id=CCTV-2H265_4000
+CCTV-4中文国际,http://139.9.188.172:5678/sxg.php?id=CCTV-4H265_4000
+CCTV-3综艺,http://139.9.188.172:5678/sxg.php?id=CCTV-3H265_4000
+CCTV-5体育,http://139.9.188.172:5678/sxg.php?id=CCTV-5H265_4000
+CCTV-5+体育赛事,http://139.9.188.172:5678/sxg.php?id=CCTV-5plusH265_4000
+CCTV-6电影,http://139.9.188.172:5678/sxg.php?id=CCTV-6H265_4000
+CCTV-7国防军事,http://139.9.188.172:5678/sxg.php?id=CCTV-7H265_4000
+CCTV-8电视剧,http://139.9.188.172:5678/sxg.php?id=CCTV-8H265_4000
+CCTV-9纪录,http://139.9.188.172:5678/sxg.php?id=CCTV-9H265_4000
+CCTV-10科教,http://139.9.188.172:5678/sxg.php?id=CCTV-10H265_4000
+CCTV-11戏曲,http://139.9.188.172:5678/sxg.php?id=CCTV-11-H265_4000
+CCTV-12社会与法,http://139.9.188.172:5678/sxg.php?id=CCTV-12H265_4000
+CCTV-13新闻,http://139.9.188.172:5678/sxg.php?id=CCTV-xw_4000
+CCTV-14少儿,http://139.9.188.172:5678/sxg.php?id=CCTV-14H265_4000
+CCTV-15音乐,http://139.9.188.172:5678/sxg.php?id=CCTV-15-yyH265_4000
+CCTV-16奥林匹克,http://139.9.188.172:5678/sxg.php?id=CCTV-16_4000
+CCTV-17农业农村,http://139.9.188.172:5678/sxg.php?id=CCTV-17_4000
+CETV-4,http://139.9.188.172:5678/sxg.php?id=CETV-4H264_2000
+CETV-1,http://139.9.188.172:5678/sxg.php?id=CETV-1H264_4000
+CHC高清电影,http://139.9.188.172:5678/sxg.php?id=lnwsCHC-HDH265_4000
+CHC动作电影,http://139.9.188.172:5678/sxg.php?id=wqCHCdzdyH265_4000
+CHC家庭影院,http://139.9.188.172:5678/sxg.php?id=jbtygqCHCjtyyH265_4000
+
+动漫秀场,http://139.9.188.172:5678/sxg.php?id=yybb-dmxc-H265_4000
+都市剧场,http://139.9.188.172:5678/sxg.php?id=yxfydsjcHDH265_4000
+法治天地,http://139.9.188.172:5678/sxg.php?id=fztx_4000
+极速汽车,http://139.9.188.172:5678/sxg.php?id=jsqcH265_4000
+纪实科教,http://139.9.188.172:5678/sxg.php?id=bjjs_2000
+嘉佳卡通,http://139.9.188.172:5678/sxg.php?id=jjkt_2000
+家庭理财,http://139.9.188.172:5678/sxg.php?id=jtlc_4000
+江苏财富天下,http://139.9.188.172:5678/sxg.php?id=cftx_4000
+金鹰纪实,http://139.9.188.172:5678/sxg.php?id=jyjsHDH265_4000
+劲爆体育,http://139.9.188.172:5678/sxg.php?id=lqhxjcHDH265_4000
+金鹰卡通,http://139.9.188.172:5678/sxg.php?id=jykt_2000
+卡酷少儿,http://139.9.188.172:5678/sxg.php?id=kkkt_4000
+聚鲨环球精选,http://139.9.188.172:5678/sxg.php?id=jshqjxHD_4000
+乐游,http://139.9.188.172:5678/sxg.php?id=qjs-HDH265_4000
+快乐垂钓,http://139.9.188.172:5678/sxg.php?id=fyzqklcdHDH265_4000
+梨园频道,http://139.9.188.172:5678/sxg.php?id=ly_4000
+魅力足球,http://139.9.188.172:5678/sxg.php?id=mlyy_4000
+七彩戏剧,http://139.9.188.172:5678/sxg.php?id=qcxj_2000
+摄影频道,http://139.9.188.172:5678/sxg.php?id=sy_4000
+四海钓鱼,http://139.9.188.172:5678/sxg.php?id=shdy_4000
+生活时尚,http://139.9.188.172:5678/sxg.php?id=shssH265_4000
+天元围棋,http://139.9.188.172:5678/sxg.php?id=tywq_2000
+武术世界,http://139.9.188.172:5678/sxg.php?id=wssj_4000
+先锋乒羽,http://139.9.188.172:5678/sxg.php?id=xfpy_4000
+新视觉,http://139.9.188.172:5678/sxg.php?id=ycxsjH265_4000
+中国天气,http://139.9.188.172:5678/sxg.php?id=zgqx_4000
+证劵服务,http://139.9.188.172:5678/sxg.php?id=jz_2000
+中央新影-发现之旅,http://139.9.188.172:5678/sxg.php?id=fxzl_2000
+中央新影-老故事,http://139.9.188.172:5678/sxg.php?id=lgs_2000
+中央新影-中学生,http://139.9.188.172:5678/sxg.php?id=zxs_4000
+CGTN-英语,http://139.9.188.172:5678/sxg.php?id=CGTN_4000
 
 百事一线,#genre#
 CCTV-4K,https://www.whalenas.com/bestv/index.php?id=cctv4k/15000000
@@ -239,3 +279,4 @@ CCTV17,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/
 茶频道,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
 足球高清,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
 炫动卡通,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
+
