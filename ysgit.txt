@@ -1,17 +1,12 @@
 {
-"spider":"https://ghproxy.com/https://github.com/mys2099/mys/blob/main/jar.jar?raw=true;md5;151781751749e3a5023f16d27ace11d5",
+"spider":"https://ghproxy.com/https://github.com/mys2099/mys/blob/main/jar.jar?raw=true;md5;fe70476db5187f65f5c3ecbf94e1b2b7",
 "lives":[{"name":"redirect","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/tv.txt"}],
 
 "sites":[
 {"key":"360","name":"🍋360","type":3,"api":"csp_SP360"},
 {"key":"Kunyu","name":"🍋七七","type":3,"api":"csp_Kunyu77"},
-{"key":"BuLei","name":"🍋布雷","type":3,"api":"csp_BuLei","m3u8ads":"wan.51img1.com"},
-{"key":"Lezhu","name":"🍋乐猪","type":3,"api":"csp_Lezhu"},
-{"key":"Smdyy","name":"🍋神马","type":3,"api":"csp_Smdyy"},
 {"key":"AppTT2","name":"🌀图图","type":3,"api":"csp_AppTT2","ext":"http://124.248.66.89:7788"},
 {"key":"Kuaikan","name":"🌀快看","type":3,"api":"csp_Kuaikan"},
-{"key":"Czsapp","name":"🌀厂长","type":3,"api":"csp_Czsapp"},
-{"key":"csp_Xinsj","name":"🌀视觉","type":3,"api":"csp_Xinsj"},
 {"key":"apple","name":"🍀Apple","type":3,"api":"csp_LiteApple"},
 {"key":"Vofl","name":"🍀Voflix","type":3,"api":"csp_Voflix"},
 {"key":"Bttoo","name":"🍀Bttoo","type":3,"api":"csp_Bttoo"},
