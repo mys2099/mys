@@ -26,7 +26,7 @@
 "parses":[
 {"name":"Q1云","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"星辰","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=22ea7ae4746073f5ea13e9079c024c7d&url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"爱酷","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=28426599&key=dglrstuEFGHOTW3467&url="},
+{"name":"爱酷","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=28434048&key=abdeijopuANPQRU347&url="},
 {"name":"聚合解析","type":3,"url":"Demo"}
 ],
 
