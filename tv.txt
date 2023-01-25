@@ -15,9 +15,7 @@ CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV.4K.HLG.25fps.2ch,http://159.75.85.63:5679/cctv4k.php
 CCTV.4K.SDR.25fps.2ch,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
 CCTV16-4K,https://live.v1.mk/aishang/cctv164k
-爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 4K电影,http://159.75.85.63:5681/sxg.php
-超高清电影4K,http://139.9.188.172:5678/sxg.php?id=emdy4k_8000
 欢笑剧场4K,http://139.9.188.172:5678/sxg.php?id=hxjc-4k_8000
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -44,6 +42,27 @@ CCTV14,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//i
 CCTV15,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
 CCTV16,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
 CCTV17,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
+
+生活时尚,http://baidu.live.cqccn.com/__cl/cg:live/__c/shenghuo/__op/default/__f//index.m3u8?
+百姓健康,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiankangSD/__op/default/__f//index.m3u8?
+每日影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/mryyHD/__op/default/__f//index.m3u8?
+幸福剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/xfjcHD/__op/default/__f//index.m3u8?
+快乐垂钓,http://baidu.live.cqccn.com/__cl/cg:live/__c/klcdHD/__op/default/__f//index.m3u8?
+第一剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8?
+都市剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8?
+动漫秀场,http://baidu.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8?
+怀旧剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8?
+风云音乐,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8?
+央视台球,http://baidu.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8?
+风云足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8?
+早期教育,http://baidu.live.cqccn.com/__cl/cg:live/__c/zaojiaoHD/__op/default/__f//index.m3u8?
+证券服务,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiazheng/__op/default/__f//index.m3u8?
+国学频道,http://baidu.live.cqccn.com/__cl/cg:live/__c/guoxue/__op/default/__f//index.m3u8?
+游戏竞技,http://baidu.live.cqccn.com/__cl/cg:live/__c/youxi/__op/default/__f//index.m3u8?
+书画,http://baidu.live.cqccn.com/__cl/cg:live/__c/shuhua/__op/default/__f//index.m3u8?
+CHC家庭影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8?
+CHC动作电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8?
+高尔夫网球,http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8?
 
 华为线路,#genre#
 CCTV-4K超高清,http://139.9.188.172:5678/sxg.php?id=ys4Kcq_2000
