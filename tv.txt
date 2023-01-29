@@ -13,7 +13,6 @@ CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
 CCTV4K.HDR.50fps.5.1ch,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-CCTV4K.HLG.25fps.2ch,http://159.75.85.63:5679/cctv4k.php
 CCTV4K.SDR.25fps.2ch,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
 欢笑剧场4K,http://139.9.188.172:5678/sxg.php?id=hxjc-4k_8000
 欢笑剧场4KHLG,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
@@ -25,6 +24,10 @@ Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 CCTV4k,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
 CCTV16-4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
 欢笑剧场4k,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
+CHC家庭影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8?
+CHC动作电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8?
+高尔夫网球,http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8?
+
 CCTV1,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 CCTV2,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
 CCTV3,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
@@ -43,14 +46,15 @@ CCTV14,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//i
 CCTV15,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
 CCTV16,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
 CCTV17,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
-CHC家庭影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8?
-CHC动作电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8?
-高尔夫网球,http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8?
 
 华为线路,#genre#
 CCTV-4K超高清,http://139.9.188.172:5678/sxg.php?id=ys4Kcq_2000
 CCTV16-4K,http://139.9.188.172:5678/sxg.php?id=CCTV-16-4K_8000
 欢笑剧场4K,http://139.9.188.172:5678/sxg.php?id=hxjc-4k_8000
+CHC高清电影,http://139.9.188.172:5678/sxg.php?id=lnwsCHC-HDH265_4000
+CHC动作电影,http://139.9.188.172:5678/sxg.php?id=wqCHCdzdyH265_4000
+CHC家庭影院,http://139.9.188.172:5678/sxg.php?id=jbtygqCHCjtyyH265_4000
+
 CCTV-1综合,http://139.9.188.172:5678/sxg.php?id=CCTV-1H265_4000
 CCTV-2财经,http://139.9.188.172:5678/sxg.php?id=CCTV-2H265_4000
 CCTV-3综艺,http://139.9.188.172:5678/sxg.php?id=CCTV-3H265_4000
@@ -69,9 +73,6 @@ CCTV-14少儿,http://139.9.188.172:5678/sxg.php?id=CCTV-14H265_4000
 CCTV-15音乐,http://139.9.188.172:5678/sxg.php?id=CCTV-15-yyH265_4000
 CCTV-16奥林匹克,http://139.9.188.172:5678/sxg.php?id=CCTV-16_4000
 CCTV-17农业农村,http://139.9.188.172:5678/sxg.php?id=CCTV-17_4000
-CHC高清电影,http://139.9.188.172:5678/sxg.php?id=lnwsCHC-HDH265_4000
-CHC动作电影,http://139.9.188.172:5678/sxg.php?id=wqCHCdzdyH265_4000
-CHC家庭影院,http://139.9.188.172:5678/sxg.php?id=jbtygqCHCjtyyH265_4000
 
 动漫秀场,http://139.9.188.172:5678/sxg.php?id=yybb-dmxc-H265_4000
 都市剧场,http://139.9.188.172:5678/sxg.php?id=yxfydsjcHDH265_4000
@@ -133,6 +134,7 @@ CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 云南卫视,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
 贵州卫视,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
 海南卫视,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
+
 欢笑剧场,https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
 劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 快乐垂钓,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
@@ -272,7 +274,6 @@ CCTV17,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m
 CCTV-4K,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 CCTV-16 奥林匹克 4K,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 欢笑剧场 4K,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
-
 CCTV-1 综合,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV-2 财经,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV-3 综艺,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
