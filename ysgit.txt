@@ -1,12 +1,12 @@
-﻿{
+{
 "spider":"https://ghproxy.com/https://github.com/mys2099/mys/blob/main/jar.jar?raw=true;md5;51187213b3dc3eb23209de6bcad0926a",
 "lives":[{"name":"redirect","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/tv.txt"}],
 
 "sites":[
+{"key":"xxyy","name":"🍋小路","type":1,"api":"http://47.108.39.249:4567/api.php/provide/vod","fl":"520520","categories":["4K专区","电影","连续剧","科幻","综艺"]},
 {"key":"360","name":"🍋360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kunyu","name":"🍋七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"AppTT","name":"🍋兔兔","type":"3","api":"csp_Dora","playerType":2,"ext":"110c922de7d69804467fb83d3bb664b5","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"AppTT2","name":"🌀图图","type":3,"api":"csp_AppTT2","playerType":2,"ext":"http://124.248.66.89:7788","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"AppTT","name":"🌀图图","type":"3","api":"csp_Dora","playerType":2,"ext":"110c922de7d69804467fb83d3bb664b5","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kuaikan","name":"🌀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Czsapp","name":"🌀厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"apple","name":"🍀Apple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -16,7 +16,7 @@
 {"key":"UpYun","name":"🎯云搜","type":3,"api":"csp_UpYun","ext":"797cf8368cf84677837b868ec64c7fd9","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"PanSou","name":"🎯盘搜","type":3,"api":"csp_PanSou","ext":"797cf8368cf84677837b868ec64c7fd9","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"YiSo","name":"🎯一搜","type":3,"api":"csp_YiSo","ext":"797cf8368cf84677837b868ec64c7fd9","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Zhao","name":"🎯源搜","type":3,"api":"csp_Zhaozy","ext":"797cf8368cf84677837b868ec64c7fd9","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Zhao","name":"🎯找源","type":3,"api":"csp_Zhaozy","ext":"797cf8368cf84677837b868ec64c7fd9","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"push_agent","name":"🛃推送","type":3,"api":"csp_Push","ext":"797cf8368cf84677837b868ec64c7fd9","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"AList","name":"🛃AList","type":3,"api":"csp_AList","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/ali1.json","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Bili","name":"🅱哔哩","type":3,"api":"csp_Bili","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/bli1.json",
@@ -27,10 +27,10 @@
 
 "parses":[
 {"name":"聚合解析","type":3,"url":"Demo"},
+{"name":"Q1云","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"PWIX","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"星辰","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=22ea7ae4746073f5ea13e9079c024c7d&url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"Q1云","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"爱酷","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=28434048&key=abdeijopuANPQRU347&url="}
 ],
 
