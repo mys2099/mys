@@ -1,13 +1,12 @@
-{
+﻿{
 "spider":"https://ghproxy.com/https://github.com/mys2099/mys/blob/main/jar.jar?raw=true;md5;9e792c7aa3ab175625008740e872cb98",
 "lives":[{"name":"redirect","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/tv.txt"}],
 
 "sites":[
 {"key":"77","name":"🍋77","type":3,"api":"csp_Kunyu77"},
-{"key":"360","name":"🍋360","type":3,"api":"csp_SP360"},
-{"key":"xxyy","name":"🍋小路","type":1,"api":"http://47.108.39.249:4567/api.php/provide/vod","fl":"520520","categories":["4K专区","电影","连续剧","科幻","综艺"]},
+{"key":"xxyy","name":"🍋小路","type":1,"api":"http://47.108.39.249:4567/api.php/provide/vod","fl":"520520","categories":["4K专区","电影","连续剧","科幻","综艺"],"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"AppTT","name":"🍋图图","type":"3","api":"csp_Dora","playerType":2,"ext":"110c922de7d69804467fb83d3bb664b5","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"bulei","name":"🌀布雷","type":3,"api":"csp_BuLei","m3u8ads":"wan.51img1.com"},
-{"key":"AppTT","name":"🌀图图","type":"3","api":"csp_Dora","playerType":2,"ext":"110c922de7d69804467fb83d3bb664b5","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kuaikan","name":"🌀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Czsapp","name":"🌀厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"apple","name":"🍀Apple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
