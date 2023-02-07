@@ -1,6 +1,6 @@
 {
 "spider":"https://ghproxy.com/https://github.com/mys2099/mys/blob/main/jar.jar?raw=true;md5;90d958358277df692b7364e709428ef7",
-"lives":[{"name":"redirect","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/tv.txt}],
+"lives":[{"name":"redirect","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/tv.txt"}],
 
 "sites":[
 {"key":"77","name":"🍀77","type":3,"api":"csp_Kunyu77"},
