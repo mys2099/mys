@@ -13,7 +13,7 @@
 {"key":"UpYun","name":"🎯云搜","type":3,"api":"csp_UpYun","ext":"6359a48bb8e34f8a8a8865098456c40e"},
 {"key":"PanSou","name":"🎯盘搜","type":3,"api":"csp_PanSou","ext":"6359a48bb8e34f8a8a8865098456c40e"},
 {"key":"YiSo","name":"🎯一搜","type":3,"api":"csp_YiSo","ext":"6359a48bb8e34f8a8a8865098456c40e"},
-{"key":"Zhao","name":"🎯找源","type":3,"api":"csp_Zhaozy","ext":"6359a48bb8e34f8a8a8865098456c40e"},
+{"key":"Zhaozy","name":"🎯找源","type":3,"api":"csp_Zhaozy","ext":"6359a48bb8e34f8a8a8865098456c40e$$$qd12333$$$qd33321"},
 {"key":"push_agent","name":"🍋推送","type":3,"api":"csp_Push","ext":"6359a48bb8e34f8a8a8865098456c40e"},
 {"key":"AList","name":"🍋AList","type":3,"api":"csp_AList","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/ali.json"},
 {"key":"Bili","name":"🍋哔哩","type":3,"api":"csp_Bili","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/bli.json"}
