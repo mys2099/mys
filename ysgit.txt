@@ -17,8 +17,8 @@
 {"key":"PanSou","name":"🎯盘搜","type":3,"api":"csp_PanSou","ext":"da044402bb2d4adb9f7fc54084090612"},
 {"key":"YiSo","name":"🎯一搜","type":3,"api":"csp_YiSo","ext":"da044402bb2d4adb9f7fc54084090612"},
 {"key":"push_agent","name":"🎯推送","type":3,"api":"csp_Push","ext":"da044402bb2d4adb9f7fc54084090612"},
-{"key":"AList","name":"🍀阿里","type":3,"api":"csp_AList","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/ali.json"},
-{"key":"Bili","name":"🍀哔哩","type":3,"api":"csp_Bili","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/bli.json"}
+{"key":"AList","name":"🍀AList","type":3,"api":"csp_AList","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/ali.json"},
+{"key":"Bili","name":"🍀BiLi","type":3,"api":"csp_Bili","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/bli.json"}
 ],
 
 "parses":[
