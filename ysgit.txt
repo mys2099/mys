@@ -1,5 +1,5 @@
 {
-"spider":"https://ghproxy.com/https://github.com/mys2099/mys/blob/main/jar.jar?raw=true;md5;87a8f4d50d08eb0258057c9ccc2c0c2f",
+"spider":"https://ghproxy.com/https://github.com/mys2099/mys/blob/main/j1.jar?raw=true;md5;87a8f4d50d08eb0258057c9ccc2c0c2f",
 "lives":[{"name":"redirect","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/tv.txt"}],
 
 "sites":[
@@ -7,18 +7,18 @@
 {"key":"apple","name":"🌀Apple","type":3,"api":"csp_LiteApple"},
 {"key":"Voflix","name":"🌀Voflix","type":3,"api":"Voflix"},
 {"key":"Bttoo","name":"🌀BTtoo","type":3,"api":"csp_Bttoo"},
-{"key":"BuLei","name":"🌀布雷","type":3,"api":"csp_BuLei"},
-{"key":"AppTT","name":"🌀图图","type":3,"api":"csp_AppTT2","ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
-{"key":"Kuaikan","name":"🌀快看","type":3,"api":"csp_Kuaikan"},
-{"key":"Czsapp","name":"🌀厂长","type":3,"api":"csp_Czsapp","playerType":2},
+{"key":"BuLei","name":"🍀布雷","type":3,"api":"csp_BuLei"},
+{"key":"AppTT","name":"🍀图图","type":3,"api":"csp_AppTT2","ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
+{"key":"Kuaikan","name":"🍀快看","type":3,"api":"csp_Kuaikan"},
+{"key":"Czsapp","name":"🍀厂长","type":3,"api":"csp_Czsapp","playerType":2},
 {"key":"Paper","name":"🎯纸条","type":3,"api":"csp_Paper","ext":"da044402bb2d4adb9f7fc54084090612"},
 {"key":"Zhaozy","name":"🎯找源","type":3,"api":"csp_Zhaozy","ext":"da044402bb2d4adb9f7fc54084090612$$$qd12333$$$qd33321"},
 {"key":"UpYun","name":"🎯云搜","type":3,"api":"csp_UpYun","ext":"da044402bb2d4adb9f7fc54084090612"},
 {"key":"PanSou","name":"🎯盘搜","type":3,"api":"csp_PanSou","ext":"da044402bb2d4adb9f7fc54084090612"},
 {"key":"YiSo","name":"🎯一搜","type":3,"api":"csp_YiSo","ext":"da044402bb2d4adb9f7fc54084090612"},
 {"key":"push_agent","name":"🎯推送","type":3,"api":"csp_Push","ext":"da044402bb2d4adb9f7fc54084090612"},
-{"key":"AList","name":"🍀AList","type":3,"api":"csp_AList","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/ali.json"},
-{"key":"Bili","name":"🍀BiLi","type":3,"api":"csp_Bili","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/bli.json"}
+{"key":"AList","name":"✌AList","type":3,"api":"csp_AList","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/ali.json"},
+{"key":"Bili","name":"✌BiLi","type":3,"api":"csp_Bili","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/bli.json"}
 ],
 
 "parses":[
