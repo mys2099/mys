@@ -2,11 +2,10 @@
 CCTV5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
-五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 超级体育,http://39.135.7.4:6610/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
 精品体育,http://39.135.7.4:6610/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
-广东体育,http://159.75.85.63:8765/telegram@feiyangdigital-gdty.m3u8
+劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 
 收藏频道,#genre#
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
@@ -37,7 +36,6 @@ NewTV,#genre#
 炫舞未来,http://39.135.7.4:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
 
 爱尚线路,#genre#
-CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 爱上4K,https://live.v1.mk/aishang/as4k
 CHC动作电影,https://live.v1.mk/aishang/chcdzdy
 CHC高清电影,https://live.v1.mk/aishang/chcgqdy
