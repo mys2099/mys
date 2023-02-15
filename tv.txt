@@ -10,7 +10,6 @@ CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 
 收藏频道,#genre#
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
-CCTV16-4K,https://live.v1.mk/aishang/cctv164k
 爱上4K,https://live.v1.mk/aishang/as4k
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -39,7 +38,6 @@ NewTV,#genre#
 
 爱尚线路,#genre#
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
-CCTV16-4K,https://live.v1.mk/aishang/cctv164k
 爱上4K,https://live.v1.mk/aishang/as4k
 CHC动作电影,https://live.v1.mk/aishang/chcdzdy
 CHC高清电影,https://live.v1.mk/aishang/chcgqdy
