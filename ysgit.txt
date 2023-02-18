@@ -8,7 +8,7 @@
 {"key":"Voflix","name":"🌀Voflix","type":3,"api":"Voflix"},
 {"key":"Bttoo","name":"🌀BTtoo","type":3,"api":"csp_Bttoo"},
 {"key":"BuLei","name":"🍀布雷","type":3,"api":"csp_BuLei"},
-{"key":"AppTT","name":"🍀图图","type":3,"api":"csp_AppTT2","ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
+{"key":"AppTT","name":"🍀图图","type":3,"api":"csp_AppTT2","ext":"http://103.239.101.244:6677$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
 {"key":"Kuaikan","name":"🍀快看","type":3,"api":"csp_Kuaikan"},
 {"key":"Czsapp","name":"🍀厂长","type":3,"api":"csp_Czsapp","playerType":2},
 {"key":"Paper","name":"🎯纸条","type":3,"api":"csp_Paper","ext":"da044402bb2d4adb9f7fc54084090612"},
