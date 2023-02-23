@@ -1,6 +1,6 @@
 {
 "spider":"http://shuyuan.miaogongzi.net/shuyuan/1677123880.txt;md5;519ec53b81c1ee070bf75ddb293ab900",
-"lives":[{"name":"redirect","type":0,"url":"http://shuyuan.miaogongzi.net/shuyuan/1677112350.txt"}],
+"lives":[{"name":"redirect","type":0,"url":"http://shuyuan.miaogongzi.net/shuyuan/1677166977.txt"}],
 
 "sites":[
 {"key":"csp_555","name":"5️⃣️555","type":3,"api":"csp_Ys555","ext":"https://www.555dyy1.com"},
