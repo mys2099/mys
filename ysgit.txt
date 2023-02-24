@@ -3,7 +3,7 @@
 "lives":[{"name":"redirect","type":0,"url":"http://shuyuan.miaogongzi.net/shuyuan/1677166977.txt"}],
 
 "sites":[
-{"key":"AppTT","name":"👒图图","type":3,"api":"csp_AppTT","ext":"http://103.239.101.244:6677/$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
+{"key":"csp_AppTT","name":"👒图图","type":3,"api":"csp_AppTT","ext":"http://154.39.64.151:5566/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="},
 {"key":"fantuan","name":"👒饭团","type":3,"api":"csp_Fantuan","ext":"https://www.fantuanhd.com"},
 {"key":"csp_Yht","name":"👒荷塘","type":3,"api":"csp_Yht","ext":"https://yehetang.cc"},
 {"key":"BuLei","name":"👒布雷","type":3,"api":"csp_BuLei","ext":"https://www.bulei.cc"},
