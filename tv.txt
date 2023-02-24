@@ -6,11 +6,9 @@ CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育 8M,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 电竞天堂 8M,https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
-咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+魅力足球 8M,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
+足球 8M,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
 超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 
 🍄4K综合,#genre#
 CCTV4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
