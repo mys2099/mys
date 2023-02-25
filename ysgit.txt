@@ -12,14 +12,14 @@
 {"key":"apple","name":"🌀Apple","type":3,"api":"csp_LiteApple"},
 {"key":"Voflix","name":"🌀Voflix","type":3,"api":"Voflix"},
 {"key":"Bttwo","name":"🌀Bttwo","type":3,"api":"csp_Bttwoo"},
-{"key":"Paper","name":"🎯纸条","type":3,"api":"csp_Paper","ext":"43c2326baa784ad99b4c59265f714227"},
-{"key":"Zhaozy","name":"🎯找源","type":3,"api":"csp_Zhaozy","ext":"43c2326baa784ad99b4c59265f714227$$$qd12333$$$qd33321"},
-{"key":"UpYun","name":"🎯云搜","type":3,"api":"csp_UpYun","ext":"43c2326baa784ad99b4c59265f714227"},
-{"key":"PanSou","name":"🎯盘搜","type":3,"api":"csp_PanSou","ext":"43c2326baa784ad99b4c59265f714227"},
-{"key":"YiSo","name":"🎯一搜","type":3,"api":"csp_YiSo","ext":"43c2326baa784ad99b4c59265f714227"},
-{"key":"push_agent","name":"🎯推送","type":3,"api":"csp_Push","ext":"43c2326baa784ad99b4c59265f714227"},
-{"key":"AList","name":"✌AList","type":3,"api":"csp_AList","ext":"http://shuyuan.miaogongzi.net/shuyuan/1676662999.json"},
-{"key":"Bili","name":"✌BiLi","type":3,"api":"csp_Bili","ext":"http://shuyuan.miaogongzi.net/shuyuan/1676661298.json"}
+{"key":"Paper","name":"🎯纸条","type":3,"api":"csp_Paper","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
+{"key":"Zhaozy","name":"🎯找源","type":3,"api":"csp_Zhaozy","ext":"12f930d7c3c84ed7aef2f1ee779eaad7$$$qd12333$$$qd33321"},
+{"key":"UpYun","name":"🎯云搜","type":3,"api":"csp_UpYun","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
+{"key":"PanSou","name":"🎯盘搜","type":3,"api":"csp_PanSou","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
+{"key":"YiSo","name":"🎯一搜","type":3,"api":"csp_YiSo","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
+{"key":"push_agent","name":"🎯推送","type":3,"api":"csp_Push","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
+{"key":"AList","name":"✌AList","type":3,"api":"csp_AList","ext":"http://wuyun.gq/jeikou/1677295877.json"},
+{"key":"Bili","name":"✌BiLi","type":3,"api":"csp_Bili","ext":"http://wuyun.gq/jeikou/1677316231.json"}
 ],
 
 "parses":[
