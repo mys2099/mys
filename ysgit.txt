@@ -1,6 +1,6 @@
 {
-"spider":"http://shuyuan.miaogongzi.net/shuyuan/1677278522.txt;md5;d58398a4c77607947d9a6168409b44a2",
-"lives":[{"name":"redirect","type":0,"url":"http://shuyuan.miaogongzi.net/shuyuan/1677312810.txt"}],
+"spider":"http://wuyun.gq/jeikou/1677370835.json;md5;eb433f3b00e991e6ba6509cffc99672c",
+"lives":[{"name":"redirect","type":0,"url":"http://wuyun.gq/jeikou/1677397359.txt"}],
 
 "sites":[
 {"key":"csp_AppTT","name":"👒图图","type":3,"api":"csp_AppTT","ext":"http://154.39.64.151:5566/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="},
