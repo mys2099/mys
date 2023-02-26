@@ -3,7 +3,7 @@
 "lives":[{"name":"redirect","type":0,"url":"http://wuyun.gq/jeikou/1677397359.txt"}],
 
 "sites":[
-{"key":"csp_AppTT","name":"👒图图","type":3,"api":"csp_AppTT","ext":"http://154.39.64.151:5566/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="},
+{"key":"csp_AppTT","name":"👒图图","type":3,"api":"csp_AppTT","ext":"http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="},
 {"key":"fantuan","name":"👒饭团","type":3,"api":"csp_Fantuan","ext":"https://www.fantuanhd.com"},
 {"key":"csp_Yht","name":"👒荷塘","type":3,"api":"csp_Yht","ext":"https://yehetang.cc"},
 {"key":"Kuaikan","name":"👒快看","type":3,"api":"csp_Kuaikan"},
