@@ -3,13 +3,13 @@
 "lives":[{"name":"redirect","type":0,"url":"http://wuyun.gq/jeikou/1677606870.txt"}],
 
 "sites":[
+{"key":"Bili","name":"🌈BiLi","type":3,"api":"csp_Bili","ext":"http://wuyun.gq/jeikou/1677316231.json"},
 {"key":"js七七","name":"🌈七七","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js"},
-{"key":"AppTT","name":"🌈图图","type":3,"api":"csp_AppTT","ext":"http://154.39.64.151:3434/$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg=="},
 {"key":"fantuan","name":"👒饭团","type":3,"api":"csp_Fantuan","ext":"https://www.fantuanhd.com"},
 {"key":"csp_Yht","name":"👒荷塘","type":3,"api":"csp_Yht","ext":"https://yehetang.cc"},
-{"key":"Kuaikan","name":"👒快看","type":3,"api":"csp_Kuaikan"},
-{"key":"Czsapp","name":"👒厂长","type":3,"api":"csp_Czsapp"},
-{"key":"apple","name":"🌀Apple","type":3,"api":"csp_LiteApple"},
+{"key":"Kuaikan","name":"🌀快看","type":3,"api":"csp_Kuaikan"},
+{"key":"Czsapp","name":"🌀厂长","type":3,"api":"csp_Czsapp"},
+{"key":"apple","name":"🌀苹果","type":3,"api":"csp_LiteApple"},
 {"key":"Voflix","name":"🌀Voflix","type":3,"api":"Voflix"},
 {"key":"Bttwo","name":"🌀Bttwo","type":3,"api":"csp_Bttwoo"},
 {"key":"Paper","name":"🎯纸条","type":3,"api":"csp_Paper","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
@@ -17,9 +17,7 @@
 {"key":"UpYun","name":"🎯云搜","type":3,"api":"csp_UpYun","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
 {"key":"PanSou","name":"🎯盘搜","type":3,"api":"csp_PanSou","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
 {"key":"YiSo","name":"🎯一搜","type":3,"api":"csp_YiSo","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
-{"key":"push_agent","name":"🎯推送","type":3,"api":"csp_Push","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
-{"key":"AList","name":"✌AList","type":3,"api":"csp_AList","ext":"http://wuyun.gq/jeikou/1677295877.json"},
-{"key":"Bili","name":"✌BiLi","type":3,"api":"csp_Bili","ext":"http://wuyun.gq/jeikou/1677316231.json"}
+{"key":"push_agent","name":"✌推送","type":3,"api":"csp_Push","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"}
 ],
 
 "parses":[
