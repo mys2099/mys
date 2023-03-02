@@ -1,23 +1,24 @@
 {
 "spider":"http://wuyun.gq/jeikou/1677517571.json;md5;4ba0df8cb001514817da4e4337df96fc",
-"lives":[{"name":"redirect","type":0,"url":"http://wuyun.gq/jeikou/1677606870.txt"}],
+"lives":[{"name":"redirect","type":0,"url":"http://wuyun.gq/jeikou/1677805091.txt"}],
 
 "sites":[
-{"key":"Bili","name":"🌈BiLi","type":3,"api":"csp_Bili","ext":"http://wuyun.gq/jeikou/1677316231.json"},
-{"key":"js七七","name":"🌈七七","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js"},
-{"key":"fantuan","name":"👒饭团","type":3,"api":"csp_Fantuan","ext":"https://www.fantuanhd.com"},
-{"key":"csp_Yht","name":"👒荷塘","type":3,"api":"csp_Yht","ext":"https://yehetang.cc"},
+{"key":"Bili","name":"🌈BiLi","type":3,"api":"csp_Bili","ext":"http://wuyun.gq/jeikou/1677316231.json","searchable":0,"quickSearch":0},
+{"key":"js七七","name":"🌈七七","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js"}
+{"key":"fantuan","name":"🌀饭团","type":3,"api":"csp_Fantuan","ext":"https://www.fantuanhd.com"},
+{"key":"csp_Yht","name":"🌀荷塘","type":3,"api":"csp_Yht","ext":"https://yehetang.cc"},
 {"key":"Kuaikan","name":"🌀快看","type":3,"api":"csp_Kuaikan"},
-{"key":"Czsapp","name":"🌀厂长","type":3,"api":"csp_Czsapp"},
-{"key":"apple","name":"🌀苹果","type":3,"api":"csp_LiteApple"},
-{"key":"Voflix","name":"🌀Voflix","type":3,"api":"Voflix"},
+{"key":"Czsapp","name":"🌀厂长","type":3,"api":"csp_Czsapp","playerType":2},
+{"key":"apple","name":"🌀Apple","type":3,"api":"csp_LiteApple"},
 {"key":"Bttwo","name":"🌀Bttwo","type":3,"api":"csp_Bttwoo"},
+{"key":"Coke","name":"🌀Coke","type":3,"api":"csp_Cokemv","playerType":2},
+{"key":"Voflix","name":"🌀Voflix","type":3,"api":"Voflix"},
 {"key":"Paper","name":"🎯纸条","type":3,"api":"csp_Paper","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
 {"key":"Zhaozy","name":"🎯找源","type":3,"api":"csp_Zhaozy","ext":"12f930d7c3c84ed7aef2f1ee779eaad7$$$qd12333$$$qd33321"},
 {"key":"UpYun","name":"🎯云搜","type":3,"api":"csp_UpYun","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
 {"key":"PanSou","name":"🎯盘搜","type":3,"api":"csp_PanSou","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
 {"key":"YiSo","name":"🎯一搜","type":3,"api":"csp_YiSo","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
-{"key":"push_agent","name":"✌推送","type":3,"api":"csp_Push","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"}
+{"key":"push_agent","name":"🎯推送","type":3,"api":"csp_Push","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"}
 ],
 
 "parses":[
