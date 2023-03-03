@@ -1,9 +1,9 @@
 {
-"spider":"http://wuyun.gq/jeikou/1677517571.json;md5;4ba0df8cb001514817da4e4337df96fc",
-"lives":[{"name":"redirect","type":0,"url":"http://wuyun.gq/jeikou/1677939036.txt"}],
+"spider":"http://shuyuan.miaogongzi.net/shuyuan/1677932932.json;md5;eb433f3b00e991e6ba6509cffc99672c",
+"lives":[{"name":"redirect","type":0,"url":"http://shuyuan.miaogongzi.net/shuyuan/1677916555.txt"}],
 
 "sites":[
-{"key":"Bili","name":"🌈BiLi","type":3,"api":"csp_Bili","ext":"http://wuyun.gq/jeikou/1677316231.json","searchable":0,"quickSearch":0},
+{"key":"Bili","name":"🌈BiLi","type":3,"api":"csp_Bili","ext":"http://shuyuan.miaogongzi.net/shuyuan/1677921281.json","searchable":0,"quickSearch":0},
 {"key":"js七七","name":"🌈七七","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js"},
 {"key":"AppTT","name":"🌈图图","type":3,"api":"csp_AppTT","ext":"http://103.239.101.244:5566/$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg=="},
 {"key":"fantuan","name":"🌀饭团","type":3,"api":"csp_Fantuan","ext":"https://www.fantuanhd.com"},
@@ -13,7 +13,6 @@
 {"key":"apple","name":"🌀Apple","type":3,"api":"csp_LiteApple"},
 {"key":"Bttwo","name":"🌀Bttwo","type":3,"api":"csp_Bttwoo"},
 {"key":"Coke","name":"🌀Coke","type":3,"api":"csp_Cokemv","playerType":2},
-{"key":"Voflix","name":"🌀Voflix","type":3,"api":"Voflix"},
 {"key":"Paper","name":"🎯纸条","type":3,"api":"csp_Paper","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
 {"key":"Zhaozy","name":"🎯找源","type":3,"api":"csp_Zhaozy","ext":"12f930d7c3c84ed7aef2f1ee779eaad7$$$qd12333$$$qd33321"},
 {"key":"UpYun","name":"🎯云搜","type":3,"api":"csp_UpYun","ext":"12f930d7c3c84ed7aef2f1ee779eaad7"},
@@ -23,8 +22,6 @@
 ],
 
 "parses":[
-{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-{"name":"json","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
 {"name":"byg","type":0,"url":"https://byg.ziqj5.shop/?url="}
 ],
 
