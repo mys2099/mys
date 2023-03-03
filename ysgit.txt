@@ -1,6 +1,6 @@
 {
 "spider":"http://wuyun.gq/jeikou/1677517571.json;md5;4ba0df8cb001514817da4e4337df96fc",
-"lives":[{"name":"redirect","type":0,"url":"http://wuyun.gq/jeikou/1677928983.txt"}],
+"lives":[{"name":"redirect","type":0,"url":"http://wuyun.gq/jeikou/1677858901.txt"}],
 
 "sites":[
 {"key":"Bili","name":"🌈BiLi","type":3,"api":"csp_Bili","ext":"http://wuyun.gq/jeikou/1677316231.json","searchable":0,"quickSearch":0},
