@@ -1,5 +1,5 @@
 {
-"spider":"http://http://shuyuan.miaogongzi.net/shuyuan/1678006201.json;md5;c7a548f950e99c50a3465918f2aab475",
+"spider":"http://shuyuan.miaogongzi.net/shuyuan/1678006201.json;md5;c7a548f950e99c50a3465918f2aab475",
 "lives":[{"name":"直播","type":0,"url":"http://111.67.196.181/zhibo.txt"}],
 
 "sites":[
