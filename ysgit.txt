@@ -1,6 +1,6 @@
 {
 "spider":"http://shuyuan.miaogongzi.net/shuyuan/1678006201.json;md5;c7a548f950e99c50a3465918f2aab475",
-"lives":[{"name":"直播","type":0,"url":"http://shuyuan.miaogongzi.net/shuyuan/1678091809.txt"}],
+"lives":[{"name":"直播","type":0,"url":"http://shuyuan.miaogongzi.net/shuyuan/1678120865.txt"}],
 
 "sites":[
 {"key":"Bili","name":"🌈BiLi","type":3,"api":"csp_Bili","ext":"http://shuyuan.miaogongzi.net/shuyuan/1677921281.json","searchable":0,"quickSearch":0},
