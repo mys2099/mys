@@ -15,12 +15,12 @@
 {"key":"apple","name":"🌀Apple","type":3,"api":"csp_LiteApple"},
 {"key":"Bttwo","name":"🌀Bttwo","type":3,"api":"csp_Bttwoo"},
 {"key":"Coke","name":"🌀Coke","type":3,"api":"csp_Cokemv","playerType":2},
-{"key":"Paper","name":"🎯纸条","type":3,"api":"csp_Paper","ext":"ce44c417ee3045c09e1b72adb4691cbf"},
-{"key":"Zhaozy","name":"🎯找源","type":3,"api":"csp_Zhaozy","ext":"ce44c417ee3045c09e1b72adb4691cbf$$$qd12333$$$qd33321"},
-{"key":"UpYun","name":"🎯云搜","type":3,"api":"csp_UpYun","ext":"ce44c417ee3045c09e1b72adb4691cbf"},
-{"key":"PanSou","name":"🎯盘搜","type":3,"api":"csp_PanSou","ext":"ce44c417ee3045c09e1b72adb4691cbf"},
-{"key":"YiSo","name":"🎯一搜","type":3,"api":"csp_YiSo","ext":"ce44c417ee3045c09e1b72adb4691cbf"},
-{"key":"push_agent","name":"🎯推送","type":3,"api":"csp_Push","ext":"ce44c417ee3045c09e1b72adb4691cbf"}
+{"key":"Paper","name":"🎯纸条","type":3,"api":"csp_Paper","ext":"b9ef8bd2e30648b2ba5f41abc3699cfc"},
+{"key":"Zhaozy","name":"🎯找源","type":3,"api":"csp_Zhaozy","ext":"b9ef8bd2e30648b2ba5f41abc3699cfc$$$qd12333$$$qd33321"},
+{"key":"UpYun","name":"🎯云搜","type":3,"api":"csp_UpYun","ext":"b9ef8bd2e30648b2ba5f41abc3699cfc"},
+{"key":"PanSou","name":"🎯盘搜","type":3,"api":"csp_PanSou","ext":"b9ef8bd2e30648b2ba5f41abc3699cfc"},
+{"key":"YiSo","name":"🎯一搜","type":3,"api":"csp_YiSo","ext":"b9ef8bd2e30648b2ba5f41abc3699cfc"},
+{"key":"push_agent","name":"🎯推送","type":3,"api":"csp_Push","ext":"b9ef8bd2e30648b2ba5f41abc3699cfc"}
 ],
 
 "parses":[{"name":"云解","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="}],
